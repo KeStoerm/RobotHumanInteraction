@@ -2,7 +2,7 @@
 
 ## Purpose 
 
-######Robot life is hard.
+###### Robot life is hard.
 
 Even if the general purpose of intelligent robots is, that they should navigate their way through a multitude of quests. The future should be, that robots will tend to find a solution for themselfes, regarding any issue.
 
@@ -137,13 +137,13 @@ Does not point exactly at object yet.
 8. Function that identifies handshake as a gesture ```done```
 9. First testing cycle ```done```
 10. Second testing cycle ```done```
-11. Integration into Main ```in Development```
-12. Live testing ```last step```
+11. Integration into Main ```done```
+12. Live testing ```done```
 
 #### B-B-B-BONUS!!
-13. Point at the object to pick (for real now)
-14. Change texttospeech voice on Robot
-15. Rework all variable and method naming
+13. Point at the object to pick (for real now) ```done```
+14. Change texttospeech voice on Robot ```done```
+15. Rework all variable and method naming ```done```
 
 ### Contact
 
