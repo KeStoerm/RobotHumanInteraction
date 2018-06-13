@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package>
+  <name>planning_interaction</name>
+  <version>0.4.0</version>
+  <description>planning-interaction</description>
+  <author>Kevin Störmer</author>
+  <maintainer email="stoermer@uni-bremen.de">Kevin Störmer</maintainer>
+  <license>BSD</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>roslisp</buildtool_depend>
+  <buildtool_depend>cl_tf</buildtool_depend>
+  <buildtool_depend>actionlib_lisp</buildtool_depend>
+  <buildtool_depend>geometry_msgs</buildtool_depend>
+  <buildtool_depend>sound_play</buildtool_depend>
+  <buildtool_depend>pr2_controllers_msgs</buildtool_depend>
+  <buildtool_depend>motion_msgs</buildtool_depend>
+  <buildtool_depend>object_detection</buildtool_depend>
+  <buildtool_depend>sensor_msgs</buildtool_depend>
+  <buildtool_depend>cram_language</buildtool_depend>
+
+</package>
